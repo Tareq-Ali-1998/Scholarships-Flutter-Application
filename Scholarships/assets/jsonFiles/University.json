@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Oxford",
+    "password": "Oxford12345",
+    "continent": "Europe",
+    "country": "United Kingdom",
+    "city": "Oxford",
+    "description": "make it at most 10 lines.",
+    "imagePath": "assets/images/universitiesImages/0.jpg",
+    "rank": 3,
+    "studentsNumber": 10
+  },
+  {
+    "name": "Queensland",
+    "password": "Queensland12345",
+    "continent": "Australia",
+    "country": "Australia",
+    "city": "Brisbane",
+    "description": "The university offers associate, bachelor, master, doctoral, and higher doctorate degrees through a college, a graduate school, and six faculties. UQ incorporates over one hundred research institutes and centres offering research programs, such as the Institute for Molecular Bioscience, Boeing Research and Technology Australia Centre,the Australian Institute for Bioengineering and Nanotechnology, and the UQ Dow Centre for Sustainable Engineering Innovation.Recent notable research of the university include pioneering the invention of the HPV vaccine that prevents cervical cancer, developing a COVID-19 vaccine that was in human trials,and the development of high-performance superconducting MRI magnets for portable scanning of human limbs. UQ counts two Nobel laureates (Peter C. Doherty and John Harsanyi), over a hundred Olympians winning numerous gold medals,and 117 Rhodes Scholars among its alumni and former staff. UQ's alumni also include University of California, San Francisco Chancellor Sam Hawgood, the first female Governor-General of Australia Dame Quentin Bryce, former President of King's College London Ed Byrne, member of United Kingdom's Prime Minister Council for Science and Technology Max Lu, Oscar and Emmy awards winner Geoffrey Rush, triple Grammy Award winner Tim Munro, the former CEO and Chairman of Dow Chemical, and current Director of DowDuPont Andrew N. Liveris.",
+    "imagePath": "assets/images/universitiesImages/1.jfif",
+    "rank": 230,
+    "studentsNumber": 5
+  },
+  {
+    "name": "Brandeis",
+    "password": "Brandeis12345",
+    "continent": "North America",
+    "country": "United States",
+    "city": "Waltham",
+    "description": "The university has a strong liberal arts focus and attracts a geographically and economically diverse student body, with 72% of its non-international undergraduates being from out of state, 50% of full-time undergraduates receiving need-based financial aid and 13.5% being recipients of the federal Pell Grant. 44% of students identify as Jewish.It has the eighth-largest international student population of any university in the United States.[6][10][11][12] Alumni and affiliates of the university include former first lady of the United States Eleanor Roosevelt, Nobel Prize laureate Roderick MacKinnon and Fields Medalist Edward Witten, as well as foreign heads of state, congressmen, governors, diplomats, and recipients of the Nobel Prize, Pulitzer Prize, Academy Award, Emmy Award, and MacArthur Fellowship.Brandeis University is accredited by the New England Commission of Higher Education.",
+    "imagePath": "assets/images/universitiesImages/2.jfif",
+    "rank": 34,
+    "studentsNumber": 58
+  },
+  {
+    "name": "Heidelberg",
+    "password": "Heidelberg12345",
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Heidelberg",
+    "description": "Heidelberg University is a public research university in Heidelberg, Baden-Württemberg, Germany. Founded in 1386 on instruction of Pope Urban VI, Heidelberg is Germany's oldest university and one of the world's oldest surviving universities. It was the third university established in the Holy Roman Empire.",
+    "imagePath": "assets/images/universitiesImages/3.jfif",
+    "rank": 64,
+    "studentsNumber": 38
+  },
+  {
+    "name": "Vistula",
+    "password": "Vistula12345",
+    "continent": "Europe",
+    "country": "Poland",
+    "city": "Poland",
+    "description": "The scholarship covers 100% tuition fees Medical Insurance If you have family or children, you can take them with you Available for all levels of study, from bachelor's and master's degrees It has no upper age limit Study in the best university in the world nd many more features.",
+    "imagePath": "assets/images/universitiesImages/4.jpg",
+    "rank": 22,
+    "studentsNumber": 37
+  },
+  {
+    "name": "Lincoln",
+    "password": "Lincoln12345",
+    "continent": "Oceania",
+    "country": "New Zealand",
+    "city": "Lincoln",
+    "description": "Lincoln University is a uniquely specialized ground university. We aim to help our students grow. We encourage them to do it their way, with diverse learning that suits their ambitions in an environment that allows them to thrive. The qualifications we offer range from degree level up to PhD, and our teaching and research cover all activities associated with land-based sectors to meet the needs of not only New Zealand, but also the world.",
+    "imagePath": "assets/images/universitiesImages/5.jpg",
+    "rank": 55,
+    "studentsNumber": 4
+  }
+]
+
