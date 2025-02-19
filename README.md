@@ -4,4 +4,5 @@ This is my fourth-year semester project, I tried to simulate a system that hosts
 This was my first project to start learning Flutter development.
 
 # Notes
+This GitHub account is just to show the code, I am making a new professional one.<br>
 More information will be here soon about the documentation and many details.
